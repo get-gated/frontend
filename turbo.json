@@ -1,0 +1,35 @@
+{
+  "$schema": "https://turborepo.org/schema.json",
+  "globalDependencies": [".env", "next.config.js"],
+  "pipeline": {
+    "symlink-env": {
+      "outputs": []
+    },
+    "build": {
+      "dependsOn": ["^build", "symlink-env"],
+      "outputs": [".next/**"]
+    },
+    "dev": {
+      "dependsOn": ["symlink-env"],
+      "outputs": []
+    },
+    "clean": {
+      "outputs": []
+    },
+    "test": {
+      "dependsOn": ["symlink-env","build"],
+      "outputs": [],
+      "inputs": ["src/**/*.tsx", "src/**/*.ts", "test/**/*.ts", "test/**/*.tsx"]
+    },
+    "lint": {
+      "outputs": []
+    },
+    "start": {
+      "outputs": []
+    },
+    "deploy": {
+      "dependsOn": ["symlink-env","build", "test", "lint"],
+      "outputs": []
+    }
+  }
+}

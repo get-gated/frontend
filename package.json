@@ -1,0 +1,25 @@
+{
+  "name": "Gated Frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gatedinc/web-next.git",
+  "license": "MIT",
+  "private": false,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "dev": "turbo run dev --no-cache --parallel --continue",
+    "start": "turbo run start",
+    "generate": "graphql-codegen",
+    "clean": "turbo run clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "turbo": "1.5.5"
+  },
+  "packageManager": "yarn@1.22.19"
+}

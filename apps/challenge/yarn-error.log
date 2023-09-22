@@ -1,0 +1,67 @@
+Arguments:
+  /Users/allenhartwig/.nvm/versions/node/v16.13.0/bin/node /Users/allenhartwig/.nvm/versions/node/v16.13.0/bin/yarn config list --json
+
+PATH:
+  /Users/allenhartwig/google-cloud-sdk/bin:/Users/allenhartwig/.nvm/versions/node/v16.13.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin
+
+Yarn version:
+  1.22.19
+
+Node version:
+  16.13.0
+
+Platform:
+  darwin x64
+
+Trace:
+  SyntaxError: /Users/allenhartwig/dev/gated/web-next/apps/challenge/package.json: Unexpected token } in JSON at position 442
+      at JSON.parse (<anonymous>)
+      at /Users/allenhartwig/.nvm/versions/node/v16.13.0/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/allenhartwig/.nvm/versions/node/v16.13.0/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/allenhartwig/.nvm/versions/node/v16.13.0/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest:
+  {
+    "name": "challenge",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint",
+      "generate": "graphql-codegen"
+    },
+    "dependencies": {
+      "@gated/utils": "*",
+      "@gated/app": "*",
+      "@gated/ui": "*",
+      "@stripe/react-stripe-js": "^1.10.0",
+      "@stripe/stripe-js": "^1.35.0",
+      "jotai": "^1.8.0",
+    },
+    "devDependencies": {
+      "@gated/lint": "*",
+      "@types/node": "^18.7.11",
+      "@types/react": "^18.0.17",
+      "@types/react-dom": "^18.0.6",
+      "typescript": "^4.7.4"
+    },
+    "resolutions": {
+      "@types/react": "^18.0.17",
+      "@types/react-dom": "^18.0.6"
+    },
+    "peerDependencies": {
+      "next": "*",
+      "react": "*",
+      "react-dom": "*",
+      "@chakra-ui/react": "*"
+    }
+  }
+
+yarn manifest:
+  No manifest
+
+Lockfile:
+  No lockfile

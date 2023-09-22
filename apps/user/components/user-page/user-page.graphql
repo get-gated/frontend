@@ -1,0 +1,8 @@
+mutation Donate($input: DonateInput!) {
+  donate(input: $input) {
+    donatedInteraction {
+      id
+    }
+    thankYouMessage
+  }
+}

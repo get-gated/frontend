@@ -1,0 +1,25 @@
+{
+  "name": "nonprofits",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "react-env --env NODE_ENV -- next dev -p 3005",
+    "build": "next build",
+    "start": "react-env --env NODE_ENV -- next start -p 3005",
+    "lint": "next lint",
+    "symlink-env": "rm -f .env* && ln -sf ../../.env* ./"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.4",
+    "@gated/app": "*",
+    "@gated/graphql-types": "*",
+    "@gated/ui": "*",
+    "@gated/utils": "*",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@gated/lint": "*"
+  }
+}

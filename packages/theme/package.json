@@ -1,0 +1,34 @@
+{
+  "name": "@gated/theme",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "private": true,
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "lint": "TIMING=1 eslint src/**/*.ts* --fix",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.4",
+    "@chakra-ui/react-utils": "^2.0.7",
+    "@chakra-ui/theme-tools": "^2.0.11",
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "framer-motion": "^7.4.0",
+    "polished": "^4.2.2"
+  },
+  "devDependencies": {
+    "@gated/lint": "*",
+    "@gated/tsconfig": "*",
+    "@types/react-dom": "^18.0.6",
+    "@types/react": "^18.0.21",
+    "eslint": "^8.24.0",
+    "react": "^18.2.0",
+    "tsup": "^6.2.3",
+    "typescript": "^4.8.3"
+  }
+}

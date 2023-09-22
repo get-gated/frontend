@@ -1,0 +1,9 @@
+{
+  "name": "@gated/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "private": true,
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}

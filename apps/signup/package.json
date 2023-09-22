@@ -1,0 +1,36 @@
+{
+  "name": "signup",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "react-env --env NODE_ENV -- next dev -p 3001",
+    "build": "next build",
+    "start": "react-env --env NODE_ENV -- next start -p 3001",
+    "lint": "next lint",
+    "symlink-env": "rm -f .env* && ln -sf ../../.env* ./",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@apollo/client": "^3.6.9",
+    "@chakra-ui/react": "^2.3.4",
+    "@gated/experiment": "*",
+    "@gated/graphql-types": "*",
+    "@gated/app": "*",
+    "@gated/assets": "*",
+    "@gated/ui": "*",
+    "@gated/utils": "*",
+    "jotai": "^1.8.4",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.3.5",
+    "react-markdown": "^8.0.3"
+  },
+  "devDependencies": {
+    "@gated/lint": "*",
+    "@gated/tsconfig": "*"
+  }
+}

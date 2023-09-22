@@ -1,0 +1,1652 @@
+[
+  {
+    "name": "Electronic Frontier Foundation",
+    "description": "Formed for the purpose of understanding and fostering the opportunities of digital communication in a free and open society.",
+    "logo": "",
+    "id": "91d13a3f-8fa6-46a3-b473-801ae26b9f5b",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Child Advocates Of Silicon Valley",
+    "description": "Matching trained court-appointed special advocates with children in the juvenile dependency system.",
+    "logo": "",
+    "id": "a5216367-efcd-41d8-9220-c939b783e82d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Anti-Defamation League",
+    "description": "Formed in 1913 to eliminate anti-semitism and bigotry in the us and around the world.",
+    "logo": "",
+    "id": "10b64953-0193-4116-bf13-032e0db339ac",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Build.org",
+    "description": "Use entrepreneurship to excite and propel low-income, disengaged youth through high school to college success. Build is committed to helping disadvantaged youth in america's most underserved communities gain the knowledge and ability to persevere in college and beyond.",
+    "logo": "",
+    "id": "66dd1a97-4867-4274-8433-7a83507a971f",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "American Cancer Society",
+    "description": "Through our six geographic regions, we save lives, celebrate lives, and fight for a world without cancer.",
+    "logo": "",
+    "id": "764c7ad8-937f-4217-ba30-39222f3d950f",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "David Sheldrick Wildlife Trust",
+    "description": "Born from one family’s passion for Kenya and its wilderness, the Sheldrick Wildlife Trust was established 45 years ago and is best known for its Orphans' Project, the first and most successful elephant orphan rescue and rehabilitation program in the world. The Sheldrick Wildlife Trust is a pioneering conservation organisation, dedicated to the protection of wildlife and the preservation of habitats in East Africa.",
+    "logo": "",
+    "id": "e4bc5d30-6610-4913-b8b1-0ecb2ae6febe",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "DonorsChoose",
+    "description": "With teachers and students facing the toughest learning challenges in a generation, you can help provide the supplies to keep kids learning.",
+    "logo": "",
+    "id": "8afb10d0-9dc8-4211-88ad-8755ebe2a794",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Operation Blessing",
+    "description": "Operation Blessing is a nonprofit, humanitarian organization dedicated to partnering with YOU to demonstrate God’s love by alleviating human suffering in the U.S. and around the world. For more than 40 years, your love has shown through OB as together we’ve provided hunger relief, clean water, medical care and disaster relief to millions.",
+    "logo": "",
+    "id": "0a191488-8c8e-40ed-b6e7-846222d6279c",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "The United Way",
+    "description": "Problems. The ones most people don’t have the stomach for. The ones nobody talks about at cocktail parties. The ones that can’t be solved. We go looking for them.  We have one life. To live better, we must Live United.",
+    "logo": "",
+    "id": "9bde9f16-910d-45a0-a566-bbf97d0eca70",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Camp Big Heart",
+    "description": "To provide a two week summer camp for the mentally and physically challenged child and adult population.",
+    "logo": "",
+    "id": "5e026f93-81be-474a-b689-914a528b5282",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Thorn",
+    "description": "Thorn builds technology to defend children from sexual abuse.",
+    "logo": "",
+    "id": "c0a1eddb-f4c3-4821-8c8d-896069bfb6bd",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "American Alpine Club",
+    "description": "To support a united community of competent climbers and healthy climbing landscapes.",
+    "logo": "",
+    "id": "e0b3b8fc-8979-40e3-97ea-38f5ab04a6ab",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "American Civil Liberties Union",
+    "description": "Preservation and promotion of civil rights and civil liberties",
+    "logo": "",
+    "id": "718ffd78-1af3-4b0f-a992-3d679187a1f1",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Catholic Charities",
+    "description": "Inspired by God's love, it is our mission to alleviate poverty and build strong families in the Diocese of Wichita. We serve all in need, regardless of faith.",
+    "logo": "",
+    "id": "33edcff0-13eb-4d28-b319-24907ba4c854",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Juvenile Diabetes Research Foundation",
+    "description": "Improving lives today and tomorrow by accelerating life-changing breakthroughs to cure, prevent and treat t1d and its complications",
+    "logo": "",
+    "id": "dd3f98af-7190-4d78-be45-1b7db98490d2",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "The Charis Project",
+    "description": "Families protect children. We protect families. Desperate families get stuck hurting their children. So many families even abandon their children to “orphanages” or traffickers, dooming them to a life of exploitation and abuse. They don’t have what they need to make their homes safe and loving. We strengthen desperate and hurting families, bringing them: *practical support in times of crisis, *education that helps them to raise their children to become strong healthy adults, and *financial tools to build a stable future together. This equips families with the wisdom and courage to make their home the place where their children grow to be the heroes they were born to be.",
+    "logo": "",
+    "id": "ec67887a-477f-49a6-b96a-b70eba9113ae",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Every Kid Sports",
+    "description": "Leveling the playing field of youth sports by helping income-restricted families cover the cost of registering their kids for youth sports.",
+    "logo": "",
+    "id": "2382ffbd-78b3-4607-a441-2b17f27c3286",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Michaels Way",
+    "description": "Michael's way provides financial assistance for families of children with cancer in order to help these families cope with extraordinary expenses.\n",
+    "logo": "",
+    "id": "0937801b-6b12-469d-b85d-de8dd86cb6e0",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Whales of Guerrero",
+    "description": "The Whales of Guerrero facilitates community-driven conservation in the fishing village of Barra de Potosí and throughout the southwest Pacific State of Guerrero, Mexico, pioneering a new approach to coastal protection that cultivates local leadership through citizen science, peer learning, and community outreach.",
+    "logo": "",
+    "id": "c09e4be1-9d47-4cda-9613-45a1b3a45634",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Mercy Corps",
+    "description": "For 40 years and in more than 40 countries, MercyCorps has helped communities forge new paths to prosperity in the face of disaster, poverty, and the impacts of climate change. In every community where they work, they connect people to the resources and opportunities they need to build strong, stable livelihoods that can withstand future challenges.",
+    "logo": "",
+    "id": "116afb34-ceab-4736-b339-e6e062d82361",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Maxfund",
+    "description": "To provide medical care for injured pets in Denver with no known owners, and to seek out new homes for these animals once they have recovered.",
+    "logo": "",
+    "id": "5f75a1f9-d1a9-4b40-a065-db9fb2ee2fc8",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "The Trevor Project",
+    "description": "The Trevor Project is determined to end suicide among LGBTQ youth. The Trevor Project believes LGBTQ young people deserve a welcoming, loving world - and commits  every day to making that a reality.",
+    "logo": "",
+    "id": "781b43a5-82ad-46dd-8c01-a9757fd3f32d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Girls Who Code",
+    "description": "Girls who code programs work to inspire, educate, and equip girls with the computing skills to pursue 21 st century opportunities.",
+    "logo": "",
+    "id": "b40a79a2-e73d-45bf-9f59-17762bd8c9bd",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "FemTech Focus",
+    "description": "FemTech Focus was founded to empower, equip, and bring together healthcare professionals, life-science entrepreneurs, and forward thinking investors to revolutionize womxn’s health and wellness.",
+    "logo": "",
+    "id": "67c38bde-7a9c-4ff4-8938-08f0535e8a3e",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Citizens Of Our Planet",
+    "description": "Founded on the belief that we are all connected and citizens of the same world. The foundation will fund and create programs united by three main themes: diversity, equity & inclusion world peace ending violence chili piper has more than 100 employees across 84 cities in 22 countries. This global connectivity has been essential to our success. We aim to use the foundation to forge similar bonds across borders while leading a movement where tech companies use their resources to make the world a better place.",
+    "logo": "",
+    "id": "57a94cae-836a-436d-8622-79f2b5035354",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Hillsborough Schools Foundation",
+    "description": "One of the first nonprofit public school foundations in the country, a leader in the movement to secure private funding for public schools",
+    "logo": "",
+    "id": "2d89ac78-c20f-4eac-b8af-d70428bc03f3",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Reef Environmental Education Foundation",
+    "description": "REEF protects biodiversity and ocean life by actively engaging and inspiring the public through citizen science, education, and partnerships with the scientific community. REEF is an internationally-recognized organization with a worldwide membership base of over 70,000 marine stewards. REEF's volunteers have created the world's largest marine life sightings database, led the way in Lionfish invasion intervention, and pioneered research on the critically endangered Nassau Grouper. From the REEF campus in the Florida Keys, they provide ocean-focused education and events programs for the local community and visitors of all ages.",
+    "logo": "",
+    "id": "401035fc-feaf-472e-a13b-3422f44b5317",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "BAPS Charities",
+    "description": "Baps charities aims to express a spirit of selfless service through health awareness, educational services, humanitarian relief, environmental protection & preservation and community empowerment. From walkathons or sponsored walks that raise funds for local communities to supporting humanitarian relief in times of urgent need or from community health fairs to sustaining hospitals and schools in developing countries, baps charities provides an opportunity for individuals wishing to serve locally and globally.",
+    "logo": "",
+    "id": "8a59fc49-ef47-4752-b60f-c55b32d06690",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Austin Pets Alive!",
+    "description": "We promote and provide the resources, education, and programs needed to eliminate the killing of companion animals.",
+    "logo": "",
+    "id": "5d729ab9-8e69-48d2-8f85-aa792303f75d",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Caring For Cambodia",
+    "description": "Caring for cambodia (cfc) is educating a generation of cambodian children today, to make a difference for cambodia's tomorrow. Our schools are safe, modern and technologically equipped. We train teachers, provide tools, and remove barriers to learning. We build cambodian leadership to guide and sustain these schools, so that generations of cfc graduates can reach their highest potential and make valuable contributions to their community.",
+    "logo": "",
+    "id": "3b6befed-b0e2-4cd4-a5a5-9d56b6d06a3a",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Kiva",
+    "description": "Kiva is a non-profit organization with a mission to expand financial access to help underserved communities thrive",
+    "logo": "",
+    "id": "60ddbfb8-807a-4b9c-811c-08eec246a9b7",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Catholic Relief Services",
+    "description": "Catholic Relief Services carries out the commitment of the bishops of the United States to assist the poor and vulnerable overseas. We are motivated by the gospel of Jesus Christ to cherish, preserve and uphold the sacredness and dignity of all human life, foster charity and justice, and embody Catholic social and moral teaching as we respond to major emergencies, fight disease and poverty, and nurture peaceful and just societies. We assist people on the basis of need, not creed, race or nationality.",
+    "logo": "",
+    "id": "11dc0e01-9ee4-4ec9-9830-38b594678d77",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Rabinowitz Institute",
+    "description": "To provide jewish religious training to students who are becoming acquainted with their heritage.",
+    "logo": "",
+    "id": "443328a0-80f4-402a-b9d2-27e1363852d0",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Wellspring Family Services",
+    "description": "Since 1892, wellspring family services has been a source of opportunity for children, adults and families in our community to reach their full potential. In 2018, we helped over 2,172 individuals and families take the next step forward, tap into their own strength and rebuild their lives. Wellspring operates six programs serving its clients: baby boutique, domestic violence intervention program, housing services, early learning center, counseling services and the employee assistance program",
+    "logo": "",
+    "id": "9cf54126-eb56-475e-9b09-2c84a37ed6d5",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "World Bicycle Relief NFP",
+    "description": "World Bicycle Relief mobilizes people through The Power of Bicycles. We are committed to helping people conquer the challenge of distance, achieve independence and thrive. For many people in rural regions of developing countries, poverty is a daily reality. In areas where walking is the only mode of transport, a Buffalo Bicycle offers the real and immediate benefit of reliable access to essential goods and services. Powered by the remarkable human spirit, bicycles are a catalyst to possibilities. Our innovative model, combining philanthropic distributions with social enterprise sales, is the backbone on which we deliver greater efficiencies of scale, distribute more bicycles per donation and generate deeper impact where we work.",
+    "logo": "",
+    "id": "7a05e1e7-cabe-493b-a52a-e5b8b9f92830",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Hazelden Betty Ford Foundation",
+    "description": "Hazelden is a force of healing and hope for individuals, families, and communities affected by addiction to alcohol and other drugs. It is our vision that together, we will overcome addiction.",
+    "logo": "",
+    "id": "45e29cbc-296e-4fe1-93c1-4d4b230fd217",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Greenpeace Fund",
+    "description": "To protect and preserve the environment through the funding of grants to other organizations.",
+    "logo": "",
+    "id": "a7d11f11-1609-4b21-ab51-80a18510b4d0",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "The Tabernacle of Orchard Park",
+    "description": "At the Tabernacle, we aim to instill a desire for lifelong worship with our youngest worshipers. Our goal is to provide a safe and caring place where kids can begin learning about god and interact with god in a kid-friendly, safe environment.",
+    "logo": "",
+    "id": "557b6c4f-9485-42cb-bd4c-bc8f86e99aa9",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "NEC Society",
+    "description": "NEC (necrotizing enterocolitis) is a leading cause of infant death, impacting thousands of babies every year. It is a devastating intestinal disease that primarily affects babies born prematurely or with a medical complication.",
+    "logo": "",
+    "id": "126db328-ae0e-4472-bf6f-e17d2d2461fa",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Rowland Hall St. Marks School",
+    "description": "Private school education",
+    "logo": "",
+    "id": "ea1e5e04-5cb4-4abe-be87-617ca537189a",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Bat World Sanctuary",
+    "description": "Bat conservation and rehabilitation",
+    "logo": "",
+    "id": "2c633eae-0569-4485-9f09-62686c2f03ce",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "New Sector Alliance",
+    "description": "To accelerate social change by strengthening organizations and developing leaders.",
+    "logo": "",
+    "id": "e89fd9ae-c98e-4393-a075-0e4fbb1fe265",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Raised By Us",
+    "description": "Raised by Us is an impact-driven social good program for all high-growth and emerging businesses. Their vision is to leverage workplace dynamics to narrow the gap between wanting to give back and actually doing it. To be successful is to create a new generation of everyday philanthropists.",
+    "logo": "",
+    "id": "d19a5be9-f680-4ea2-b995-2c640dcb44bf",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Cavalier King Charles Spaniel Club Rescue",
+    "description": "An animal rescue group providing veterinary and adoption services for cavalier king charles spaniels.",
+    "logo": "",
+    "id": "01fa5d40-8285-48fb-93a6-e79bd1c6f49d",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Catch a Lift Fund",
+    "description": "The Catch A Lift Fund enables post 9/11 combat injured veterans all over the U.S. to recover and rehabilitate both physically and mentally through physical fitness, motivation and support.",
+    "logo": "",
+    "id": "ca900ef0-a55c-4b1b-a90f-a90bd9567eb9",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "Lupus Foundation Of America",
+    "description": "Improve the quality of life for people with lupus through research, education, support and advocacy.\n",
+    "logo": "",
+    "id": "d298db77-d875-4490-8b3f-b64069ac4b49",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Modest Needs Foundation",
+    "description": "Modest needs exists to prevent otherwise self-sufficient individuals and families from entering the cycle of poverty by helping these persons to shoulder the burden of a short-term, emergency expense. In this way, modest needs promotes the self-sufficiency of the working poor while simultaneously lessening the burden of state and federal agencies charged with the care of the truly indigent.\n",
+    "logo": "",
+    "id": "7cec7c57-2b78-4d9d-b342-9d087c4e0a8e",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Feed More WNY",
+    "description": "To support meals on wheels of western new york which delivers daily nutritious meals and provides support services to those members of our community who have a limited ability to shop and prepare meals for themselves.\n",
+    "logo": "",
+    "id": "9f2358d8-6000-484d-a825-c5c8c1ba0243",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Susan B Anthony List",
+    "description": "Research and educational communications on abortion and the right to life",
+    "logo": "",
+    "id": "fe56ae6d-003e-4013-8dc0-bb58e38a1831",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "RIP Medical Debt",
+    "description": "Purchases and abolishes medical debt for poor individuals",
+    "logo": "",
+    "id": "30d02987-17dc-428b-a44f-d1efb7b415ea",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "San Diego Humane Society & SPCA",
+    "description": "Sheltering, adoptions, humane practices, protection, and rehabilitation for animals.\n",
+    "logo": "",
+    "id": "23e1705f-48f1-4a84-abac-2ae46fa80b8c",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Give.org",
+    "description": "To help donors make informed giving decisions",
+    "logo": "",
+    "id": "844dbe47-ff23-420d-82e6-24462ea085d9",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "International Justice Mission",
+    "description": "The mission of international justice mission is to protect the poor from violence by rescuing victims, bringing the criminals to justice, restoring survivors to safety and strength, and helping local law enforcement build a safe future that lasts.",
+    "logo": "",
+    "id": "1f4160b3-2267-459a-8e84-cff57c786437",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "American Heart Association",
+    "description": "The american heart association is a national voluntary health agency focused on activities related to the causes, diagnosis, prevention, and treatment of cardiovascular disease, stroke and other related diseases.\n",
+    "logo": "",
+    "id": "263f307e-896f-4b94-bc9e-4dc250457aaa",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Leveling The Playing Field",
+    "description": "The purpose of leveling the playing field (LTPF) is to give underprivileged children the opportunity to enjoy the pleasure of athletic involvement.",
+    "logo": "",
+    "id": "33254a46-debc-428a-a8ba-84e107d2a0b1",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "International Fellowship Of Christians And Jews",
+    "description": "Promote understanding and cooperation between Jews and Christians and to build broad support for Israel and other shared concerns.",
+    "logo": "",
+    "id": "1ad42ee3-438c-424a-ae5e-eb975b5f44dd",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Children's International Summer Villages (CISV)",
+    "description": "Promoting world peace through building inter-cultural friendship, cooperation and understanding.",
+    "logo": "",
+    "id": "b8d3636f-22be-48c9-b9c0-8e31f885ebb8",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "National Immigration Law Center",
+    "description": "To defend and advance the rights and opportunities of low-income immigrants and their families.\n",
+    "logo": "",
+    "id": "519e6645-449f-47cc-9dc6-37d09e23c87c",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "National Public Radio",
+    "description": "Works in partnership with its member public radio stations to create a more informed public - one challenged and invigorated by a deeper understanding of events, ideas and cultures.",
+    "logo": "",
+    "id": "9dd0e35f-406f-4b4d-9fcd-07a80dd7240a",
+    "category": {
+      "name": "Arts & Culture",
+      "id": "06c8ff55-959a-4cf9-bbcc-74f81addb60d"
+    }
+  },
+  {
+    "name": "PERIOD.",
+    "description": "Period aims to eradicate period poverty through advocacy, education, and service.",
+    "logo": "",
+    "id": "0267211d-0bbe-4073-8256-cbd25ea26d2a",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Kabbalah Centre Of New York",
+    "description": "Kabbalah teaches the individual and the world as a whole how we can improve our lives. We believe at the core of the world’s great religions and spiritual traditions are truths that we call the wisdom of Kabbalah. Our goal at the Kabbalah centre is to disseminate this wisdom as much as possible to improve not only our individual lives but also the collective and the world as a whole.",
+    "logo": "",
+    "id": "4890ac06-dfa6-408f-92be-32389ab1aefe",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Tearfund USA",
+    "description": "To end poverty and injustice, and to restore dignity and hope in the world's poorest communities.",
+    "logo": "",
+    "id": "97c4d213-9990-4367-bf9a-1163ed88f046",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "EARTHDAY.ORG",
+    "description": "The mission of EARTHDAY.ORG is to broaden and diversify the environmental movement worldwide, and to mobilize it as the most effective vehicle for promoting a healthy, sustainable environment.",
+    "logo": "",
+    "id": "2f8bf5f4-f484-48c9-818e-37ba1439c948",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Planned Parenthood",
+    "description": "Planned Parenthood provides comprehensive reproductive health care services, advocate for public policies and ensure access to services and provide sex education to enhance understanding of human sexuality.",
+    "logo": "",
+    "id": "b8b545d3-4f53-4b9d-9120-b392fafce561",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Marine Mammal Center",
+    "description": "The Marine Mammal Center advances global ocean conservation through rescue and rehabilitation, scientific research, and education",
+    "logo": "",
+    "id": "674545f1-923d-40fb-bf17-3377c0071698",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Kappa Delta Foundation",
+    "description": "The mission of the Kappa Delta Foundation is to secure funds for the educational, leadership and charitable purposes of Kappa Delta sorority.",
+    "logo": "",
+    "id": "eb02c47e-c4c0-4671-9c21-ed82f4dc14d6",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Equal Justice Initiative",
+    "description": "The Equal Justice Initiative is committed to ending mass incarceration and excessive punishment in the United States, to challenging racial and economic injustice, and to protecting basic human rights for the most vulnerable people in American society.",
+    "logo": "",
+    "id": "4ca0f461-e588-4d7b-adc5-bfe4e1ed2d9d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Nature Conservancy",
+    "description": "The Nature Conservancy is a global environmental nonprofit working to create a world where people and nature can thrive.",
+    "logo": "",
+    "id": "27ea54f7-cb02-422f-b4dd-650341ba8446",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "The Ulman Foundation",
+    "description": "The Ulman Foundation changes lives by creating a community of support for young adults, and their loved ones, impacted by cancer.",
+    "logo": "",
+    "id": "307fe7ba-a8fa-4199-84ae-c319eeb9fb68",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Esperanza Shelter",
+    "description": "To conduct a program of social services, advocacy and education, designed to alleviate the problem of domestic violence in North Central New Mexico with the stated goals of protecting people from abuse, neglect and exploitation, and to offer remedies to domestic violence.",
+    "logo": "",
+    "id": "44d2645f-446a-4de6-b4dd-9a9d94dad9b1",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "SPCA",
+    "description": "Advancing the safety and well-being of animals",
+    "logo": "",
+    "id": "2a9b4cf3-8864-4dcd-8db8-51aa14cf14e8",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Child Advocates Denver CASA",
+    "description": "Child Advocates Denver CASA's mission is to advocate for the best interests of abused and neglected children in Denver juvenile court through the services of specially selected and trained community volunteers from diverse cultural and ethnic backgrounds.",
+    "logo": "",
+    "id": "5c42fae3-4c1e-4ede-baab-dece35224c99",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "ClientEarth",
+    "description": "The primary object of the organization is to promote and encourage the enhancement, restoration, conservation and protection of the environment for the public benefit.",
+    "logo": "",
+    "id": "b235cc14-bd48-426f-ae84-c08131e92854",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Minority Veterans Of America",
+    "description": "The mission of Minority Veterans of America (MVA) is to create community belonging and advance equity for minority veterans including veterans of color, women, LGBTQ, and religious minority veterans.",
+    "logo": "",
+    "id": "45c6ef5f-7a74-4be8-b466-e52aacf72d4a",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Compassion International",
+    "description": "Releasing children from poverty in Jesus' name.",
+    "logo": "",
+    "id": "649322c1-1194-45f4-8dec-298f9cbc03eb",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Sky High Farm",
+    "description": "Sky High Farm is a nonprofit organization working to increase access to fresh, nutritious, locally produced food while investing in collaborative long-term solutions for food security. Committed to sustainable farming practices and direct donation of 100% of food produced on the farm, sky high works as a bridge between regenerative farming and food access initiatives.",
+    "logo": "",
+    "id": "6da15346-c9d2-4599-810e-ecc528563d74",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Movember Foundation",
+    "description": "Mental health and suicide prevention, prostate cancer and testicular cancer – we’re taking them all on. Since 2003, Movember has funded more than 1,250 men’s health projects around the world, challenging the status quo, shaking up men’s health research and transforming the way health services reach and support men.",
+    "logo": "",
+    "id": "953e6c33-1055-43c4-bee5-2a14917eefdc",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Renew Life Center",
+    "description": "Our mission is to help families overcome generational poverty by providing life-changing programs that lead to economic self-sufficiency, healthy relationships, and restored dignity.",
+    "logo": "",
+    "id": "e57934e3-84b6-448c-bfa3-60c875390579",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Ronald McDonald House Charities",
+    "description": "Ronald McDonald House Charities creates, finds and supports programs that directly impact the health and well being of children.",
+    "logo": "",
+    "id": "9e27686f-5c4e-4e60-8399-6d1d2032437f",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Everytown For Gun Safety Support Fund",
+    "description": "The Everytown for Gun Safety Support Fund was formed both to educate the public about the detrimental effects of illegal guns in order to reduce gun violence in the United States and to lessen the burdens of government by assisting American local governments and law enforcement agencies in their efforts to develop effective policies to combat illegal guns. The fund supports programmatic activities of approximately 1,000 mayors in the Coalition of Mayors Against Illegal Guns, as well as other government officials and law enforcement leaders.",
+    "logo": "",
+    "id": "1286d4ac-91b9-4f21-b6b6-5d331a8438c8",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Fisher House Foundation",
+    "description": "To construct and furnish Fisher houses, provide assistance and scholarships to military families and children & enhance the quality of life for veterans and armed forces members.",
+    "logo": "",
+    "id": "64064483-ff06-47b3-9ecb-81e44be55962",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "Rush Homes",
+    "description": "Rush Homes creates affordable housing in the Lynchburg, VA region for low-income families with disabilities through development, advocacy, and support.",
+    "logo": "",
+    "id": "8c493628-1396-491a-89c8-08f11b9ebe4a",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "The Skatepark Project",
+    "description": "The Skatepark Project has been helping underserved communities create safe and inclusive public skateparks for youth.The organization favors projects that have strong community involvement, grassroots fundraising, and a base of support from the skaters, parents, law enforcement, and local leaders.",
+    "logo": "",
+    "id": "971627ed-aaa9-4843-b321-80527b899953",
+    "category": {
+      "name": "Arts & Culture",
+      "id": "06c8ff55-959a-4cf9-bbcc-74f81addb60d"
+    }
+  },
+  {
+    "name": "Watch Tower Bible and Tract Society of Pennsylvania",
+    "description": "Watch Tower Bible and Tract Society of Pennsylvania (Watch Tower) is a religious, educational, and charitable nonprofit organization.\n",
+    "logo": "",
+    "id": "429db784-d40b-4eca-91e0-1885a02bef79",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "National Association of the Deaf",
+    "description": "The mission of the National Association of the Deaf is to preserve, protect and promote the civil, human and linguistic rights of deaf and hard of hearing people in the United States of America.",
+    "logo": "",
+    "id": "e56a1851-a084-4a30-8ec0-f09a6d89a462",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Dressember Foundation",
+    "description": "We are a community of international advocates utilizing fashion + creativity to help end human trafficking, leading to the protection and freedom of millions.",
+    "logo": "",
+    "id": "944c802c-97cc-4a19-b62f-7c4497f7511c",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Soul Dog Rescue",
+    "description": "Soul dog rescue was founded with the mission to spay/neuter and protect animals.\n",
+    "logo": "",
+    "id": "7569aea4-bb08-49a2-ba80-d2a5b778326b",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "SHE-CAN Global",
+    "description": "SHE-CAN equips low-income women from Rwanda, Cambodia, and Liberia with the education and skills needed to become leaders in their nations. As SHE-CAN continues to grow, cohorts of empowered women will spur collective action.",
+    "logo": "",
+    "id": "3f76c50f-372d-4856-92da-86ef135677e5",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "GiveDirectly",
+    "description": "GiveDirectly's mission is to reshape international giving, making unconditional, direct cash transfers to the poor the benchmark against which other interventions are evaluated. We believe the best way of achieving this mission is by maximizing cash delivered to the poor, with the ultimate aim of ending extreme poverty.",
+    "logo": "",
+    "id": "2a9dce6a-72bd-4ad7-855f-bd13fd19536c",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Eden Theological Seminary",
+    "description": "Eden Theological Seminary is called to strengthen the life of the church by educating women and men for ministry, enlivening critical reflection on faith and supporting bold Christian discipleship.",
+    "logo": "",
+    "id": "139fb0e0-63ad-42d1-ad6e-fb4bb5f5a0a2",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Black Girls Smile",
+    "description": "Black Girls Smile Inc. is a nonprofit dedicated to encouraging positive mental health education, resources and support geared toward young African American females.",
+    "logo": "",
+    "id": "8cff7c9b-5218-483e-b3fa-16a8b6e63287",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "The Pink Fund",
+    "description": "The mission of The Pink Fund is to alleviate the effects of Cancer-Related Financial Toxicity (CRFT) for breast cancer patients. The Pink Fund provides financial support which helps meet basic needs, decrease stress levels, and allow breast cancer patients to focus on healing while improving survivorship outcomes. The 90 day program covers expenses for housing, transportation, utilities and health insurance premiums.",
+    "logo": "",
+    "id": "65d0f220-86f6-4c7e-b29f-3e5d3be03ced",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "NAACP",
+    "description": "The NAACP was organized to eliminate social injustice, including racial discrimination by assisting in legal cases and by affirming legal action in establishing the principals of law.\n",
+    "logo": "",
+    "id": "a33c2f2f-83cf-45f8-b1f9-40c944e195da",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "AthLead Indy",
+    "description": "Our mission is to enact community change through the youth of Indianapolis. AthLead Indy is designed for children to excel in track and field and as leaders in their communities.",
+    "logo": "",
+    "id": "12657857-a18f-40d5-8a90-da40250932d4",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Samaritan's Purse",
+    "description": "Samaritan's Purse is a nondenominational evangelical Christian organization providing spiritual and physical aid to hurting people around the world with the purpose of sharing God's love through His son, Jesus Christ.",
+    "logo": "",
+    "id": "c133fded-0005-4b3b-94a3-6ba7231c8e78",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "International Fund For Animal Welfare",
+    "description": "The International Fund For Animal Welfare protects animals and the places they call home.\n",
+    "logo": "",
+    "id": "9bdd4ec6-9ff1-43cb-bf98-9f10e0c0a0e9",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Stone Research Foundation",
+    "description": "Stone Research Foundation's mission is to advance both scientific and educational enrichment of sports medicine and arthritis and to disseminate the results of analytical and scientific studies.\n",
+    "logo": "",
+    "id": "5cd73c1a-3bd9-4038-b9c0-49befc77682f",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Habitat For Humanity",
+    "description": "Seeking to put God's love into action, Habitat For Humanity brings people together to build homes, communities and hope.",
+    "logo": "",
+    "id": "1e6432d3-01d4-49d5-9fdd-955aaa924d38",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Rotary International",
+    "description": "Rotary is a global network of 1.4 million neighbors, friends, leaders, and problem-solvers who see a world where people unite and take action to create lasting change – across the globe, in our communities, and in ourselves.",
+    "logo": "",
+    "id": "b8850773-5224-4425-988e-c3077719ab18",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Scenic Hudson",
+    "description": "Scenic Hudson preserves land and farms and creates parks that connect people with the inspirational power of the Hudson River, while fighting threats to the river and natural resources that are the foundation of the valley’s prosperity.",
+    "logo": "",
+    "id": "15315965-1a67-4733-a69f-9f0d9659e032",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Doctors Without Borders",
+    "description": "Every day, Doctors Without Borders teams deliver emergency medical aid to people in crisis, with humanitarian projects in more than 70 countries.",
+    "logo": "",
+    "id": "5455a225-550c-4e64-b89a-fb9de4efda20",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Suicide Awareness Voices Of Education",
+    "description": "The mission of Suicide Awareness Voices of Education (SAVE) is to prevent suicide through public awareness and education, reduce stigma and serve as a resource to those touched by suicide. The purpose of SAVE is to educate the general public about depressive brain diseases, which can result in suicide if left untreated medically and psychologically. By educating the general public on brain diseases, SAVE intends to reduce the rate of suicide and to remove the stigma, shame, and guilt.",
+    "logo": "",
+    "id": "1e609192-f210-49d0-92ee-a3eb910388f3",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "New Door Ventures",
+    "description": "New Door's mission is to prepare opportunity youth for work and life, by providing the jobs, training, education, and support they need to discover and achieve their potential so that they can transition to independent adulthood.",
+    "logo": "",
+    "id": "2f074e02-baa1-4485-a1da-b59e75397758",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Imerman Angels",
+    "description": "Imerman Angels’ mission is to provide comfort and understanding for all cancer fighters, survivors, previvors and caregivers through a personalized, one-on-one connection with someone who has been there. We envision a world where cancer is not a solitary experience.",
+    "logo": "",
+    "id": "04c10723-4217-4a56-8ecf-2d5c2d0a8175",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Bright Water Foundation",
+    "description": "Our mission is to transform lives by preventing water-borne disease, promoting family health and self-reliance. This is accomplished by teaching effective safe water practices: rapid community water testing; household water treatment and safe water storage.",
+    "logo": "",
+    "id": "dc20dbab-802c-4a0f-bd3d-a4708462c3f4",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Abandoned Angels Cocker Spaniel Rescue",
+    "description": "Abandoned Angels Cocker Spaniel Rescue is a non-profit organization dedicated to the rescue and re-homing of Cocker Spaniels and other dogs in need of loving forever homes.",
+    "logo": "",
+    "id": "1e7061f8-3747-4299-a98b-4430b9675e42",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "HomeWorks Trenton",
+    "description": "Founded in 2016, HomeWorks Trenton is a non-profit operating a free, after-school residential program for marginalized high school girls that provides academic and identity-driven leadership enrichment to supplement public schools and develop community leaders.",
+    "logo": "",
+    "id": "af1a6763-5772-4bae-88dd-98fba8341ecb",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "American Diabetes Association",
+    "description": "The mission of the American Diabetes Association is to prevent and cure diabetes and to improve the lives of all people affected by diabetes.",
+    "logo": "",
+    "id": "7cf5e9ca-9015-40d2-b1af-5cba2a651329",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Food Bank for NYC",
+    "description": "To end hunger by organizing food, information, and support for community survival and dignity. Food Bank For New York City has been working to end food poverty in our five boroughs for over 36 years. As the city’s largest hunger-relief organization, we employ a multifaceted approach centered on helping low-income New Yorkers overcome their circumstances and achieve greater independence.",
+    "logo": "",
+    "id": "c3463303-b93e-4f78-9b47-2f6475d27704",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Fresh Lifelines for Youth",
+    "description": "an award-winning nonprofit working to break the cycle of juvenile violence, crime, and incarceration.",
+    "logo": "",
+    "id": "235207af-5420-46c6-bcbc-0e0d8638382e",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Cozy Coats for Kids",
+    "description": "improve the well-being of children in need by providing them with the opportunity to choose their own brand-new winter coat, and to deliver it directly to them for free.",
+    "logo": "",
+    "id": "e2c0b30c-eae3-4725-9248-8c0398b79784",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Women for Afghan Women",
+    "description": "Dedicated to protecting and promoting the rights of disenfranchised afghan women and girls in afghanistan and the u.s.",
+    "logo": "",
+    "id": "73241d90-fd8e-484d-aedb-55c1f6b56f43",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Uprise Circus",
+    "description": "Uprise circus provides uplifting circus programs to underserved kids",
+    "logo": "",
+    "id": "6932f7b9-7f11-48b8-860e-e4902c8e0aa9",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Best Buddies",
+    "description": "Dedicated to establishing a global volunteer movement that creates opportunities for one-to-one friendships, integrated employment and leadership development for people with intellectual and developmental disabilities.",
+    "logo": "",
+    "id": "9c964a8e-999d-42fc-9f66-f22874832010",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Save the Children",
+    "description": "Every child deserves a future. In the United States and around the world, we work every day to give children a healthy start in life, the opportunity to learn and protection from harm. When crisis strikes, and children are most vulnerable, we are always among the first to respond and the last to leave. We ensure children’s unique needs are met and their voices are heard. ",
+    "logo": "",
+    "id": "c5e079df-eaaf-4972-9992-e9b2563fbe09",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Gable Heart Beats Foundation",
+    "description": "Save lives by early detection of heart issues and placing defibrillators (AEDs) in places where kids are present",
+    "logo": "",
+    "id": "adfca279-14cd-414d-976b-60fac91842a1",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "UCSF Benioff Children's Hospitals Foundation",
+    "description": "We believe that all children should have the best that healthcare can offer. By raising funds for essential programs and services, as well as unrestricted funds to meet the hospital's most pressing needs, the Foundation helps provide the kids and families that turn to us with undivided attention and unsurpassed care. ",
+    "logo": "",
+    "id": "c26f47d9-f343-4d37-8fcc-b2a9401d6b74",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "The Wounded Warrior Project",
+    "description": "Veterans and service members who incurred a physical or mental injury, illness, or wound while serving in the military on or after September 11, 2001. You are our focus. You are our mission.",
+    "logo": "",
+    "id": "318a7788-46b2-43e0-9e89-4829917e3ea4",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "Save the Waves",
+    "description": "Save the Waves is an international nonprofit that works with diverse organizations dedicated to protecting surf ecosystems.",
+    "logo": "",
+    "id": "fb7fb2b9-3c3c-4648-806d-368ef17e77be",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "The American Red Cross",
+    "description": "The American National Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.",
+    "logo": "",
+    "id": "73f0298f-d43a-4df1-8f0c-5e108778921a",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Charity: Water",
+    "description": "Bringing clean and safe drinking water to people in developing countries.",
+    "logo": "",
+    "id": "059aadcd-b75f-4465-9f46-11c589eb5c3c",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Sierra Club Foundation",
+    "description": "This country belongs to all of us. Together, we can help deepen the movement for a liveable planet, safe communities, and a democracy that works for everyone.",
+    "logo": "",
+    "id": "f8b8d1a5-54a5-4112-bbdd-9e910d002ddb",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Headstrong Project",
+    "description": "Headstrong provides at no expense, confidential and stigma-free mental health treatment for military, veterans, and their families regardless of service era or discharge.",
+    "logo": "",
+    "id": "54a67c77-1c2f-4427-9beb-537046e1e1da",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "Autism Society of America",
+    "description": "Improving the lives of all affected by autism for over 50 years and envisions a world where individuals and families living with autism are able to maximize their quality of life, are treated with the highest level of dignity, and live in a society in which their talents and skills are appreciated and valued.",
+    "logo": "",
+    "id": "67d9fdfc-3478-480f-82a0-522e8eb768be",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Alzheimer's Association",
+    "description": "The Alzheimer's Association leads the way to end Alzheimer's and all other dementia — by accelerating global research, driving risk reduction and early detection, and maximizing quality care and support",
+    "logo": "",
+    "id": "f7490f73-f15e-46bf-854e-68d207d672d1",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Demo Charity",
+    "description": "Demo non profit for example purposes",
+    "logo": "logo.gif",
+    "id": "f21a10c2-a1df-43ba-b991-2846303d594f",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Environmental Defense Fund",
+    "description": "To preserve the natural systems on which all life depends. Guided by science & economics, we find practical & lasting solutions to the most serious environmental problems.",
+    "logo": "",
+    "id": "cf7dd867-5562-43cb-b5d4-3a36465b2094",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "San Francisco-Marin Food Bank",
+    "description": "The SF-Marin Food Bank's mission is to end hunger in San Francisco and Marin, where one in four neighbors is at risk of hunger",
+    "logo": "",
+    "id": "66da6106-01aa-43b1-801f-f91248345b8d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Make a Wish",
+    "description": "",
+    "logo": "",
+    "id": "62864a0a-b36d-40ad-bae1-171a00e78f51",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "the Lincoln Project",
+    "description": "The Lincoln Project is holding accountable those who would violate their oaths to the Constitution and would put others before Americans",
+    "logo": "",
+    "id": "23c7eff9-4d22-46b5-aabb-8156ecd951ae",
+    "category": {
+      "name": "blank",
+      "id": "635da7da-99f6-45f9-89d8-cfdb365bfc67"
+    }
+  },
+  {
+    "name": "Operation Underground Railroad",
+    "description": "To shine a light worldwide on the global issue of child sex trafficking and exploitation, and in so doing rescue more children from slavery and assist law enforcement to seek justice for those who violate children. We place survivors on a path to recovery by partnering with vetted aftercare providers.",
+    "logo": "",
+    "id": "8d9fbd7c-d227-411f-81f8-0088f2d2341d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Bridging Tech",
+    "description": "The Bridging Tech Charitable Fund is a 501(c)(3) non-profit public charity with a mission to bridge the digital divide for K-12 students affected by homelessness in the United States by providing educational opportunities and technology.",
+    "logo": "",
+    "id": "ce59721e-f355-4388-b9e5-51c1faad28c4",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Creative Commons",
+    "description": "Creative Commons is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges.",
+    "logo": "",
+    "id": "359a26ed-6e63-4c7a-9d11-390a5d01d239",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "description": "Provides the essential infrastructure for free knowledge.",
+    "logo": "",
+    "id": "814eafd4-601a-4956-9317-dd7c09118f57",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "World Central Kitchen",
+    "description": "World Central Kitchen is first to the frontlines, providing meals in response to humanitarian, climate, and community crises while working to build resilient food systems with locally led solutions. WCK has served more than 60 million fresh meals to people impacted by natural disasters and other crises around the world.",
+    "logo": "",
+    "id": "0199632b-b38a-4961-b7a4-ee8b1d485323",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "The Animal Pad",
+    "description": "The Animal Pad is an all-breed, non-profit Dog Rescue Organization based in San Diego, Ca.",
+    "logo": "",
+    "id": "33398a54-b49b-4eaa-8236-16ee9595199d",
+    "category": {
+      "name": "Animals",
+      "id": "5c0c9e8f-d15e-48e1-a78f-ea33e1bd9889"
+    }
+  },
+  {
+    "name": "Crohn's And Colitis Foundation",
+    "description": "To cure Crohn's disease and ulcerative colitis, and to improve the quality of life of children and adults affected by these diseases.",
+    "logo": "",
+    "id": "9b755dc9-27ce-4dc0-94f9-c7f2dd4fbf4f",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "ALS Association",
+    "description": "To discover treatments and a cure for ALS, and to serve, advocate for, and empower people affected by ALS to live their lives to the fullest.",
+    "logo": "",
+    "id": "6ee7cc69-5fbc-4f4a-a043-a1c6bded6b49",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "HealthTree Foundation",
+    "description": "The HealthTree Foundation empowers patients with rare diseases at each step of their disease journey - from diagnosis, through education, care and on to a cure.",
+    "logo": "",
+    "id": "755dbf2a-be6c-4386-81e8-3c635592b62b",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Feed the Children",
+    "description": "Feed the children is an international, nonprofit relief organization with headquarters in oklahoma city, oklahoma, that delivers food, medicine, clothing and other necessities to individuals, children and families who lack these essentials due to famine, war, poverty or natural disasters. Since its founding, the organization has reached out to help those in need in the u.s. And in countries around the globe. For more information, please visit www.feedthechildren.org.",
+    "logo": "",
+    "id": "582c4c29-dc15-4fef-b6fd-21a8e3fd554a",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "McCall Home & School Association",
+    "description": "Mccall elementary school home and school association is a non-profit, 501(c)(3), charitable organization. We are a volunteer-run organization. At mccall school, our vision is to create a community of future-ready, life-long learners who will lead, serve and achieve in their communities. We will accomplish this vision through our commitment to academic diligence, ethical socialization, and professional integrity. This vision, and its intrinsic, supportive shared values represent our collective passion, dreams, and aspirations, and guide us in how we work with our students, parents, and community partners to realize the full potential of our life-long learners.",
+    "logo": "",
+    "id": "536d92e1-f614-4463-afa8-1f2055adc8b2",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Team Rubicon",
+    "description": "Team Rubicon serves communities by mobilizing veterans to continue their service, leveraging their skills and experience to help people prepare, respond, and recover from disasters and humanitarian crises.",
+    "logo": "",
+    "id": "9d16996b-234c-4891-b573-0740517d23ad",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "March of Dimes",
+    "description": "March of Dimes leads the fight for the health of all moms and babies. We support research, lead programs and provide education and advocacy so that every family can have the best possible start. Building on a successful 80-year legacy, we support every pregnant person and every family. For 80 years, March of Dimes has helped millions of babies survive and thrive.",
+    "logo": "",
+    "id": "c344830e-0ebc-4757-990f-98e7745a224a",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Big Brothers Big Sisters",
+    "description": "Since 1904, Big Brothers Big Sisters has been matching youth in meaningful, enduring, professionally supported mentoring relationships with adult volunteers who defend their potential and help them achieve their biggest possible futures.",
+    "logo": "",
+    "id": "7dd2c7cc-dbdc-4486-8baa-136e2e03f53e",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Marine Corps-Law Enforcement Foundation",
+    "description": "Provide educational bonds to children whose parent was killed while on active duty with the Marine Corps or any federal law enforcement agency.",
+    "logo": "",
+    "id": "5595c15e-74f8-45a7-b6aa-1d740f7c4402",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "NAMI",
+    "description": "The National Alliance on Mental Illness (NAMI) is dedicated to improving the lives of persons and their families living with serious mental illness.\n",
+    "logo": "",
+    "id": "19190f87-6647-4787-8a92-ded32fbd19a4",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "St. Jude Children's Research Hospital",
+    "description": "The mission of St. Jude Children's Research Hospital is to advance cures, and means of prevention, for pediatric catastrophic diseases through research and treatment. Consistent with the vision of our founder Danny Thomas, no child is denied treatment based on race, religion or a family's ability to pay.",
+    "logo": "",
+    "id": "13887504-29a8-4f53-950e-a496c9d5e5e2",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Youth Tennis Advantage",
+    "description": "To provide tennis, academic and life skills programs to underprivileged youth ages 7-18 in the San Francisco/Oakland Bay Area that empower them for leadership in their communities, and success in their personal lives.",
+    "logo": "",
+    "id": "34c67cf4-38e9-49f2-8799-feed19e18205",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Protect Our Winters",
+    "description": "Turn passionate outdoor people into effective climate advocates. POW leads a community of athletes, thought pioneers and forward-thinking business leaders to affect systemic solutions to climate change.",
+    "logo": "",
+    "id": "b76f99f9-20bd-474d-ab09-24ceef7ff3cb",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Aga Khan Foundation",
+    "description": "For over 50 years, the Aga Khan Foundation has partnered with communities in some of the most remote, hard-to-reach parts of Asia and Africa to build better futures together. We don’t just provide services or goods. We dedicate ourselves to partnering with communities to improve their quality of life. ",
+    "logo": "",
+    "id": "68e8f758-a9b7-46e7-affa-88628e98eab7",
+    "category": {
+      "name": "International",
+      "id": "ce0e9117-5452-46a3-a04b-c8e8ba5c6c61"
+    }
+  },
+  {
+    "name": "Hui Aloha Kiholo",
+    "description": "To protect, perpetuate, and enhance the cultural and natural landscape of the Kiholo Bay area through collaborative management and active community stewardship.",
+    "logo": "",
+    "id": "e3aa76c7-9abd-4f3f-a599-51bc4ff1e69b",
+    "category": {
+      "name": "Environment",
+      "id": "bc86f37a-19b4-40ba-b1b8-dcd14191f6e2"
+    }
+  },
+  {
+    "name": "Alex's Lemonade Stand Foundation",
+    "description": "The foundation's purpose is to raise funds for pediatric cancer treatment and research. To change the lives of children with cancer through funding impactful research, raising awareness, supporting, families, and empowering everyone to help cure childhood cancer.",
+    "logo": "",
+    "id": "85759bb0-e0d1-4acb-939f-e2ed55f0c6f2",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "United World College USA",
+    "description": "The primary mission of the United World College is education as a two year, pre college program. The college offers an international baccalaureate diploma. The college serves approximately 200 boarding students. The college's mission is to make education a force to unite people, nations, cultures for peace and a sustainable future.",
+    "logo": "",
+    "id": "45009f22-d0f0-413f-9a6c-8b3934d0c9d0",
+    "category": {
+      "name": "Education",
+      "id": "10bfb5e1-c483-4554-9480-ec9991877758"
+    }
+  },
+  {
+    "name": "Trinity Broadcasting Network",
+    "description": "For nearly 50 years the mission of the Trinity Broadcasting Network has remained unchanged: To use every available means to reach as many individuals and families as possible with the life-changing Gospel of Jesus Christ.",
+    "logo": "",
+    "id": "192a467c-a13d-45ca-b0ae-2391c52a735c",
+    "category": {
+      "name": "Faith and Spiritual",
+      "id": "8395d904-0e26-40e8-9dd3-684ff916e008"
+    }
+  },
+  {
+    "name": "Boys And Girls Clubs Of America",
+    "description": "Our mission is to enable all young people, especially those who need us most, to reach their full potential as productive, caring, responsible citizens.",
+    "logo": "",
+    "id": "f97a10b6-5f8f-4e3a-9439-b104fc9d578e",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "K9s for Warriors",
+    "description": "Determined to end veteran suicide, K9s For Warriors provides highly-trained Service Dogs to military veterans suffering from PTSD, traumatic brain injury and/or military sexual trauma.",
+    "logo": "",
+    "id": "ff11ea26-21c5-4761-8544-3aa9bea01e54",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "THON",
+    "description": "THON is a student-run philanthropy committed to enhancing the lives of children and families impacted by childhood cancer. Our mission is to provide emotional and financial support, spread awareness, and ensure funding for critical research — all in pursuit of a cure.",
+    "logo": "",
+    "id": "f0f40b9f-b5fa-4c8c-b730-50fc7ca909e9",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "MIMA Music",
+    "description": "Modern Improvisational Music Appreciation (MIMA) is a 501(c)(3) music education nonprofit that engages and enriches communities through music improvisation and collaborative songwriting.",
+    "logo": "",
+    "id": "57c17f2f-ce8f-4012-a492-06c029bbf9f5",
+    "category": {
+      "name": "Arts & Culture",
+      "id": "06c8ff55-959a-4cf9-bbcc-74f81addb60d"
+    }
+  },
+  {
+    "name": "Special Operations Fund",
+    "description": "To provide educational grants and support to the families of special mission unit warriors killed in action, killed in training or who died in the line of duty. We also support the families of current and veteran special mission units' warriors with merit scholarships and other educational opportunities.",
+    "logo": "",
+    "id": "04a443b9-6a26-4a69-844a-101393a33f18",
+    "category": {
+      "name": "Veterans",
+      "id": "83394073-03ba-43c5-8e2d-a82e5ed9d14c"
+    }
+  },
+  {
+    "name": "ALS Cure Project",
+    "description": "The purpose of the ALS Cure Project is to provide laser focused leadership and sponsor scientific research leading to a cure for ALS (also known as Lou Gehrig’s Disease) through collaborations with research organizations and biotech and pharma companies.",
+    "logo": "",
+    "id": "9825ab99-2404-4dca-9f19-9ad1fc1a9aa6",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Camp CARE",
+    "description": "Camp CARE is committed to providing a camp and other year-round activities for children up to age 16, who have or had cancer, and their families in the Charlotte, NC area.",
+    "logo": "",
+    "id": "d6f36568-bb4f-4cc7-be7d-a71986133f54",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "In A Heartbeat",
+    "description": "Our mission is to prevent death from hypertrophic cardiomyopathy (HCM) and sudden cardiac arrest by raising awareness, enabling research, and donating automated external defibrillators (AEDs) to places that need them.",
+    "logo": "",
+    "id": "9ad4cad3-1fc2-4be0-bb95-dd1197e77152",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  },
+  {
+    "name": "Experience Camps",
+    "description": "We give grieving children experiences that will change their lives forever. Experience camps is a national, no-cost program for grieving children who have experienced the death of a parent, sibling or primary caregiver. Our one-week, overnight summer camp and year-round programs help to reframe the experience of grief and empower kids to develop invaluable coping skills that enable them to move forward with their lives. Through compassion, connection, and play, experience camps empowers grieving children to embody a life full of hope and possibility.",
+    "logo": "",
+    "id": "127eaf0a-dff4-448e-beb9-109d530d23ea",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "Capital Area Food Bank",
+    "description": "Together with 450 nonprofit organizations in Washington DC, we provide 30 million meals to almost half a million area residents, every year. And because we know that food alone won’t solve hunger, we also address the root causes of hunger through multiple education programs and innovative service delivery partnerships.",
+    "logo": "",
+    "id": "2ab26b4b-0274-4886-910d-a2d318273e6d",
+    "category": {
+      "name": "Human Services",
+      "id": "8c1ee8c4-2cba-4ce2-97b3-02a90d04b829"
+    }
+  },
+  {
+    "name": "United Spinal Association",
+    "description": "United Spinal's mission is to enhance the quality of the lives of people living with spinal cord injury or disease, as well as disabled veterans, through the provision of resources, information and representation.",
+    "logo": "",
+    "id": "d2d3769c-0e15-46c5-b0f1-fd685e922579",
+    "category": {
+      "name": "Health",
+      "id": "c9752bbd-f233-4b2c-96e9-0d72d87d6ca2"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+schema: http://localhost:3000/graphql
+documents:
+  - './apps/**/*.tsx'
+  - './apps/**/*.ts'
+  - './apps/**/*.graphql'
+  - './packages/**/*.ts'
+  - './packages/**/*.tsx'
+  - './packages/**/*.graphql'
+generates:
+  ./packages/graphql-types/generated.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-react-apollo
+    config:
+      fetcher: fetch

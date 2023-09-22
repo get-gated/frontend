@@ -1,0 +1,10 @@
+**/.next
+node_modules
+.env*.local
+Dockerfile
+.github
+.git
+.vscode
+.dockerignore
+apps/**/.env*
+out

@@ -1,0 +1,17 @@
+# Directories
+.ignore
+dist/
+node_modules/
+schema.graphql
+# Dots
+.DS_Store
+.env.local
+.vscode
+apps/dashboard/public/config.json
+.next
+.turbo
+build
+out
+apps/**/.env*
+.graphqlconfig
+apps/**/public/__ENV.js

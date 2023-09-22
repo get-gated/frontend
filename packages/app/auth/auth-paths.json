@@ -1,0 +1,7 @@
+{
+  "signup": "/api/user/auth/signup",
+  "login": "/api/user/auth/login",
+  "reauthorize": "/api/connection/reauthorize",
+  "link": "/api/connection",
+  "signature": "/api/signature"
+}

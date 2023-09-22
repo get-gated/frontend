@@ -1,0 +1,46 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatedinc/web-next.git"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "react-env --env NODE_ENV -- next dev -p 3008",
+    "build": "next build",
+    "start": "react-env --env NODE_ENV -- next start -p 3008",
+    "lint": "next lint",
+    "symlink-env": "rm -f .env* && ln -sf ../../.env* ./"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@chakra-ui/react": "^2.3.4",
+    "@chakra-ui/theme-tools": "^2.0.11",
+    "@gated/app": "*",
+    "@gated/assets": "*",
+    "@gated/graphql-types": "*",
+    "@gated/ui": "*",
+    "@gated/utils": "*",
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.11",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^18.0.6",
+    "copy-webpack-plugin": "^10.2.0",
+    "core-js": "^3.20.3",
+    "css-loader": "^6.5.1",
+    "dotenv-webpack": "^7.0.3",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "typescript": "^4.7.4"
+  },
+  "resolutions": {
+    "graphql": "15.8.0"
+  }
+}

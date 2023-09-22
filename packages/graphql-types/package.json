@@ -1,0 +1,7 @@
+{
+  "name": "@gated/graphql-types",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "UNLICENSED",
+  "private": true
+}

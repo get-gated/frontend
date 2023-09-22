@@ -1,0 +1,10 @@
+{
+  "name": "@gated/telemetry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@sentry/react": "^7.14.1",
+    "@sentry/tracing": "^7.14.1"
+  }
+}

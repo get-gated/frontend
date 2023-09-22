@@ -1,0 +1,10 @@
+# docker-compose.yml file
+version: '3'
+
+services:
+  # The load balancer
+  nginx:
+    image: gated-dev-nginx
+    build: .
+    ports:
+      - "8080:3000"

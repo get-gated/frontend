@@ -1,0 +1,23 @@
+{
+  "extends": "@gated/tsconfig/nextjs.json",
+  "include": [
+    "next-env.d.ts",
+    "**/*.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "../../packages/ui/global.d.ts"
+  ],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["*"],
+      "@enums/*": ["enums/*"],
+      "@views/*": ["views/*"],
+      "@hooks/*": ["hooks/*"],
+      "@components": ["components"],
+      "@components/*": ["components/*"],
+      "@assets/*": ["public/*"],
+    }
+  }
+}

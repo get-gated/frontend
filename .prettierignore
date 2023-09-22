@@ -1,0 +1,5 @@
+schema.graphql
+dist
+__generated__
+.github
+generated.ts

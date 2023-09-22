@@ -1,0 +1,7 @@
+{
+  "name": "@gated/assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true
+}
